@@ -1,0 +1,39 @@
+#player1{
+    background-color: rgb(110, 161, 185);
+    padding: 10px, 10px, 10px, 10px;
+}
+
+#player2{
+    background-color: rgb(245, 129, 22);
+    padding: 10px, 10px, 10px, 10px;
+}
+
+hr{
+    color: black;
+}
+body{
+    background-color: rgb(239, 181, 181);
+}
+
+#output {
+    background:white;
+    border-radius:10px;
+    border-top:10px solid #AA4465;
+    padding:10px;
+    float: none;
+    text-align:left;
+}
+
+.submit{
+    padding: 5px;
+    background-color: #AA4465;
+    border-radius: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size:20px; 
+    color: white; 
+}
+
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    
+}
